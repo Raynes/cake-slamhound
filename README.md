@@ -6,4 +6,4 @@ Slamhound is a tool for reconstructing `(ns ..)` declarations. It's pretty fun.
 
 # Installing
 
-If you want to make cake-slamhound available to all of your projects, put it in your global project. Edit `~/.cake/project.clj` and add this `:cake-plugins [[cake-slamhound "0.0.1"]]`.
+Edit your project.clj file and add this `:cake-plugins [[cake-slamhound "0.0.1"]]`.
